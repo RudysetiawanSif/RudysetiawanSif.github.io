@@ -1,5 +1,5 @@
 
-title: My Resume
+title: My blog
 url: 'https://rudysetiawansif.github.io/'
 baseurl: '/RudySetiawan' #change it according to your repository name
 
@@ -15,7 +15,7 @@ location: Pekanbaru , Riau
 
 ## Social Profiles
 facebook: https://www.facebook.com/Rudhy87  ## your facebook account url
-twitter: https://www.github.com/rudysetiawansif
+github: https://www.github.com/rudysetiawansif
 linkedin: https://www.linkedin.com/in/rudy-setiawan-0a9725152/ ## your linkedin account url
 
 
