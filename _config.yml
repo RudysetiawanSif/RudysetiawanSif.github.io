@@ -1,22 +1,26 @@
 
 title: My Resume
-url: 'http://junlulocky.com'
+url: 'https://rudysetiawansif.github.io/'
 baseurl: '/PanelCV' #change it according to your repository name
 
 
 
 # Profile information
 yourname: Rudy Setiawan  ## put your name
+<<<<<<< HEAD
 title: 'Sistem informasi'  ## your title
 location: Riau , Indonesia
+=======
+title: 'Information System, UIN SUSKA'  ## your title
+location: Pekanbaru , Riau
 
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
-twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
+facebook: http://www.facebook.com/Rudhy87  ## your facebook account url
+#twitter: http://www.twitter.com  ## your twitter account url
+linkedin: https://www.linkedin.com/in/rudy-setiawan-0a9725152/ ## your linkedin account url
+#dribbble: http://www.dribble.com  ## you dribbble account url
+#foursquare: http://www.foursquare.com  ## your foursquare account url
 
 
 
